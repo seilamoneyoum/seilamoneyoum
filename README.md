@@ -2,7 +2,7 @@
 
 🎓 **Étudiante en informatique** à l'Université Laval  
 💻 Diplômée en Programmation Web, Mobile et Jeux Vidéo (Cégep de Sainte-Foy)  
-🚀 Passionnée par tout ce qui touche l'informatique, surtout le développement Full-Stack et les applications mobiles
+🚀 Passionnée par tout ce qui touche l'informatique, surtout le développement Full-Stack et les applications mobiles  
 🔭 **Je travaille actuellement sur** : La finalisation de mon **Baccalauréat en informatique** à l'Université Laval, tout en avançant sur mes projets personnels.
 
 ### 📌 Projets vedettes
