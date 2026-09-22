@@ -1,12 +1,12 @@
 ## 👋 Salut ! Moi, c'est Seilamoney 
 
-🎓 **Étudiante en informatique** à l'Université Laval 
+🎓 **Étudiante au baccalauréat en informatique** à l'Université Laval 
 
 💻 Diplômée en Technique de l'informatique - Programmation Web, Mobile et Jeux Vidéo (Cégep de Sainte-Foy)  
 
 🚀 Passionnée par tout ce qui touche l'informatique, surtout le développement des applications mobiles, le développement IA et la cybersécurité
 
-🔭 **Je travaille actuellement sur** : La finalisation de mon **Baccalauréat en informatique** à l'Université Laval, tout en participant à des activités de club liées à mon programme scolaire - comme le développement d'un projet d'IA robotique, la participation aux formations en cybersécurité et la participation à des défis de type « Capture the Flag, » et en rencontrant d'autres membres du club passionnés d'informatique! 😊
+🔭 **Je travaille actuellement sur** : mes études  à l'Université Laval, tout en participant à des activités de club liées à mon programme scolaire - comme le développement d'un projet d'IA robotique, la participation aux formations en cybersécurité et la participation à des défis de type « Capture the Flag, » et en rencontrant d'autres membres du club passionnés d'informatique! 😊
 
 ### 📌 Projets vedettes
 
